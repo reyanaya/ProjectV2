@@ -1,4 +1,6 @@
 package GUI;
 
-public class MainScreen {
+public class MainScreen
+{
+
 }
